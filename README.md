@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MortalityX
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html and CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Html and CSS and Javascript 
 - 📫 How to reach me ...
 
 <!---
